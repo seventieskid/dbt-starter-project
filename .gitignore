@@ -6,3 +6,5 @@ logs/
 
 # legacy -- renamed to dbt_packages in v1
 dbt_modules/
+
+ai-venv
